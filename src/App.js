@@ -39,7 +39,7 @@ function App() {
   };
   return (
     <Container>
-      <Title>Jazen's availability for the next 7 days.</Title>
+      <Title>Paul's availability for the next 7 days.</Title>
       <Content>
         {data.map((day, index) => {
           return (
